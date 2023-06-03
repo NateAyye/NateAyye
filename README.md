@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![](https://www.google.com/url?sa=i&url=https%3A%2F%2Femojipedia.org%2Fwaving-hand%2F&psig=AOvVaw1-4W2TW7CgnjDf80IRtalT&ust=1685916379795000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCNDHjoqOqP8CFQAAAAAdAAAAABBO)
+![](https://github.com/NateAyye/NateAyye/edit/main/waving-hand_1f44b.gif)
 
 <details>
   <summary><h2>About Me</h2></summary>
