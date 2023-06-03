@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![](https://github.com/NateAyye/NateAyye/edit/main/waving-hand_1f44b.gif)
+![](https://github.com/NateAyye/NateAyye/edit/main/waving-hand_1f44b.gif?raw=true)
 
 <details>
   <summary><h2>About Me</h2></summary>
