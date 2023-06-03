@@ -1,4 +1,4 @@
-## Hi there 👋 <img src="https://gifdb.com/gif/cute-wave-emoji-hand-59s88kk0zj3xho40.html?embed=true" />
+## Hi there 👋 <img src="https://github.com/NateAyye/NateAyye/blob/main/waving-hand_1f44b.gif" />
 
 ![](https://gifdb.com/gif/cute-wave-emoji-hand-59s88kk0zj3xho40.html?embed=true)
 
