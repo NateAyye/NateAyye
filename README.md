@@ -1,7 +1,4 @@
-## Hi there 👋 <img width="20" height="20" src="https://github.com/NateAyye/NateAyye/blob/main/waving-hand_1f44b.gif" />
-
-
-![](https://gifdb.com/gif/cute-wave-emoji-hand-59s88kk0zj3xho40.html?embed=true)
+## Hi there <img width="30" height="30" src="https://github.com/NateAyye/NateAyye/blob/main/waving-hand_1f44b.gif" />
 
 <details>
   <summary><h2>About Me</h2></summary>
