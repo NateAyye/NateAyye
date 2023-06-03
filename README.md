@@ -2,7 +2,7 @@
 <details>
   <summary><h2>About Me</h2></summary>
   
-```
+```md
 I have worked in the food industry for about 8+ years now starting as a crew member and made it up to a shift lead which carried me to other opportunities else where and has shown me a lot. But for the past year I have been pursuing my own interest of becoming a web developer Front End/Full Stack and I want to see where that road will take me.
 I am getting more and more proficient in JavaScript, HTML, CSS, SQL, Git, GitHub and more as the days go on and I can't wait to get a better understanding of it all working together.
 
