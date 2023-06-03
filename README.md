@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![](https://gifdb.com/gif/cute-wave-emoji-hand-59s88kk0zj3xho40.html)
+![](https://gifdb.com/gif/cute-wave-emoji-hand-59s88kk0zj3xho40.html?embed=true)
 
 <details>
   <summary><h2>About Me</h2></summary>
