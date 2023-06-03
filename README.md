@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![](https://github.com/NateAyye/NateAyye/edit/main/waving-hand_1f44b.gif?raw=true)
+![](https://gifdb.com/gif/cute-wave-emoji-hand-59s88kk0zj3xho40.html)
 
 <details>
   <summary><h2>About Me</h2></summary>
