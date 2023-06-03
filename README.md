@@ -11,7 +11,6 @@ I am Currently Enrolled in the UC Davis coding Bootcamp and will be done by Sept
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=NateAyye&show_icons=true&theme=ocean_dark" />
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NateAyye&layout=compact" />
 
- ![visitors](https://visitor-badge.glitch.me/badge?page_id=NateAyye.NateAyye&left_color=green&right_color=red)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ### Languages
