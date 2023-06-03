@@ -1,4 +1,7 @@
 ## Hi there 👋
+
+![](https://www.google.com/url?sa=i&url=https%3A%2F%2Femojipedia.org%2Fwaving-hand%2F&psig=AOvVaw1-4W2TW7CgnjDf80IRtalT&ust=1685916379795000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCNDHjoqOqP8CFQAAAAAdAAAAABBO)
+
 <details>
   <summary><h2>About Me</h2></summary>
 I have worked in the food industry for about 8+ years now starting as a crew member and made it up to a shift lead which carried me to other opportunities else where and has shown me a lot. But for the past year I have been pursuing my own interest of becoming a web developer Front End/Full Stack and I want to see where that road will take me.
