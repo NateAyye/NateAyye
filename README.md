@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-<img src="https://github-readme-stats.vercel.app/api?username=NateAyye&show_icons=true&theme=ocean_dark" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NateAyye&layout=compact" />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=NateAyye&show_icons=true&theme=ocean_dark" />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NateAyye&layout=compact" />
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NateAyye&show_icons=true&theme=ocean_dark)
