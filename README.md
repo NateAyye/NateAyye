@@ -1,4 +1,4 @@
-## Hi there <img width="30" height="30" src="https://github.com/NateAyye/NateAyye/blob/main/waving-hand_1f44b.gif" />
+## Hi there, I'm Nathan Cuevas <img width="30" height="30" src="https://github.com/NateAyye/NateAyye/blob/main/waving-hand_1f44b.gif" />
 
 <details>
   <summary><h2>About Me</h2></summary>
