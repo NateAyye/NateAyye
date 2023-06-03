@@ -1,6 +1,8 @@
 ### Hi there 👋
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NateAyye&show_icons=true&theme=ocean_dark)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NateAyye&repo=custom-github-dark-theme)](https://github.com/NateAyye/custom-github-dark-theme)
 <!--
 **NateAyye/NateAyye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
